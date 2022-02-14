@@ -2,7 +2,7 @@
 
 > Movie Website
 
-### Access the aplication on your browser: (https://quiz-app-gilt-tau.vercel.app/)
+### Access the aplication on your browser: (https://movie-vert.vercel.app/)
 
 ## 💻 How it works
 
